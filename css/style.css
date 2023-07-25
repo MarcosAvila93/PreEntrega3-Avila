@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(180deg, #000, #c30707);
+    height: 100vh;
+    min-height: 100%;
+    margin: 0;
+}
+
+.img {
+    height: 100px;
+}
+
+.container {
+    margin: 10px;
+}
+
+h1, h3, p {
+    color: #f3d007;
+    margin: 10px;
+}
+
